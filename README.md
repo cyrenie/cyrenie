@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="736" height="736" alt="1000023057" src="https://github.com/user-attachments/assets/57d811df-5910-4347-ae37-943ad7693929" />
+
 
 <!--
 **cyrenie/cyrenie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
