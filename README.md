@@ -5,9 +5,9 @@
 
 ㅤ ㅤ ㅤ ${\textsf{\color{#f1b1c9} They had said I'd have to wait . . .}}$
 
-ㅤ ㅤ ㅤ ㅤ ㅤ ㅤㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ${\textsf{\color{#f1b1c9}. . . an}}$ ${\textsf{\color{#b995d3}entire}}$ ${\textsf{\color{#f1b1c9}lifetime}}$
+ㅤ ㅤ ㅤ ㅤ ㅤ ㅤㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ  ${\textsf{\color{#f1b1c9}. . . an}}$ ${\textsf{\color{#b995d3}entire}}$ ${\textsf{\color{#f1b1c9}lifetime}}$
 
-ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤㅤ ㅤ ㅤ  ㅤ ㅤㅤ ${\textsf{\color{#f1b1c9}Just to see}}$ ${\textsf{\color{#b995d3}THEM}}$ ${\textsf{\color{#f1b1c9}again.}}$
+ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤㅤ ㅤ ㅤ  ㅤㅤ ${\textsf{\color{#f1b1c9}Just to see}}$ ${\textsf{\color{#b995d3}THEM}}$ ${\textsf{\color{#f1b1c9}again.}}$
 
 
 
